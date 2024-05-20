@@ -21,6 +21,9 @@
 **Synopsis:**  
 [Provide a brief description or synopsis of the theme here.]
 
+**Features:**  
+[Provide a brief description or features of the theme here.]
+
 **Screenshots:**
 
 **Intro Screen:**  
